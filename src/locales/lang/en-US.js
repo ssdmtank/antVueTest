@@ -13,6 +13,7 @@ const locale = {
   'menu.dashboard': 'Dashboard',
   'menu.dashboard.analysis': 'Analysis',
   'menu.dashboard.monitor': 'Monitor',
+  'menu.dashboard.test': 'test',
   'menu.dashboard.workplace': 'Workplace',
 
   'layouts.usermenu.dialog.title': 'Message',
